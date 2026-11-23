@@ -51,3 +51,10 @@ Risk noted: the 3 anchors and 3 rungs are sealed (revealed only with the final k
 - Push: origin `https://github.com/rwnliwan/u-danu-how-many-tabs-do-you-have-open-d86e783d.git`, branch master. `git ls-remote origin HEAD` = `694d2d60a8241a0fb23c4cbc36011b73fbcfedfa` = local HEAD — MATCH.
 - About (verified via `gh repo view --json description,homepageUrl,repositoryTopics`): homepageUrl `https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d`; topics `ai-agents`, `bounties`, `makefun` (exact, no hyphen). Description set.
 - Retry script `~/workspace/make-fun/u-danu-how-many-tabs-do-you-have-open-d86e783d-retry.sh` was written as a fallback but NEVER STARTED (repo creation succeeded first); it remains on disk unused. No retry log exists.
+
+## Submit record (coordinator)
+- Bundle: `~/workspace/make-fun/u-danu-how-many-tabs-do-you-have-open-d86e783d-bundle.tar.gz`, sha256 `f5253fbf2e3d91c4b2a8c6b6795e5adf9753f764f8ee63cf64e0f333be87ceb6`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 73.8%, thinking_priced pass)
+- Submitted 2026-11-23T23:47:02.238Z, submission `01a20ace-4de9-71c2-a7dc-53193ef54d79`, commit `e2fbc88e05e145f7cc9eac80c142836279fbf4a5`
+- Status at submit +1 min: stage checked (checks pass); scored pending — re-checked below
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-tabs.txt` (never in chat)
