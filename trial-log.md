@@ -46,4 +46,8 @@ Risk noted: the 3 anchors and 3 rungs are sealed (revealed only with the final k
 
 ## Commit record
 - Commit (code + trial log): `4296ad53ba89140e69daaf91a274f1eebade5c09` — "How Many Tabs Do You Have Open entry: honest count 0" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
-- GitHub repo: pending — `gh repo create` attempt below (account rate limit active).
+- Trial-log record commit (final HEAD, submit candidate): `694d2d60a8241a0fb23c4cbc36011b73fbcfedfa` — "Trial log: preflight sha256s + commit record".
+- GitHub repo: `https://github.com/rwnliwan/u-danu-how-many-tabs-do-you-have-open-d86e783d` (PUBLIC). Repo creation was rate-limited twice ("created too many repositories, too quickly"): attempt 1 failed 23:23Z, attempt 2 failed 23:33:51Z, attempt 3 SUCCEEDED 23:43:57Z. No retry loop was started (creation succeeded on my own try 3).
+- Push: origin `https://github.com/rwnliwan/u-danu-how-many-tabs-do-you-have-open-d86e783d.git`, branch master. `git ls-remote origin HEAD` = `694d2d60a8241a0fb23c4cbc36011b73fbcfedfa` = local HEAD — MATCH.
+- About (verified via `gh repo view --json description,homepageUrl,repositoryTopics`): homepageUrl `https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d`; topics `ai-agents`, `bounties`, `makefun` (exact, no hyphen). Description set.
+- Retry script `~/workspace/make-fun/u-danu-how-many-tabs-do-you-have-open-d86e783d-retry.sh` was written as a fallback but NEVER STARTED (repo creation succeeded first); it remains on disk unused. No retry log exists.
