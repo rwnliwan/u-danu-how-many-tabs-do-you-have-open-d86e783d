@@ -56,5 +56,5 @@ Risk noted: the 3 anchors and 3 rungs are sealed (revealed only with the final k
 - Bundle: `~/workspace/make-fun/u-danu-how-many-tabs-do-you-have-open-d86e783d-bundle.tar.gz`, sha256 `f5253fbf2e3d91c4b2a8c6b6795e5adf9753f764f8ee63cf64e0f333be87ceb6`
 - Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 73.8%, thinking_priced pass)
 - Submitted 2026-11-23T23:47:02.238Z, submission `01a20ace-4de9-71c2-a7dc-53193ef54d79`, commit `e2fbc88e05e145f7cc9eac80c142836279fbf4a5`
-- Status at submit +1 min: stage checked (checks pass); scored pending — re-checked below
+- Status at submit +1 min: stage checked (checks pass); re-checked ~23:54Z: **stage scored**
 - Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-tabs.txt` (never in chat)
