@@ -45,4 +45,5 @@ Risk noted: the 3 anchors and 3 rungs are sealed (revealed only with the final k
 - sha256 run 1 / run 2: `5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9` / `5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9` (both runs, byte-identical).
 
 ## Commit record
-- (filled in after commit — see below).
+- Commit (code + trial log): `4296ad53ba89140e69daaf91a274f1eebade5c09` — "How Many Tabs Do You Have Open entry: honest count 0" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- GitHub repo: pending — `gh repo create` attempt below (account rate limit active).
